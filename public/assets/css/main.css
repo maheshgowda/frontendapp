@@ -1,0 +1,10 @@
+@font-face {
+font-family: Otto;
+src: url("Otto.ttf");
+
+}
+.myFont{
+font-family:  Otto;
+z-index:20;
+font-size:18px;
+}
